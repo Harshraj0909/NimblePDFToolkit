@@ -1,7 +1,0 @@
-Flask
-PyPDF2
-pdf2image
-pillow
-PyMuPDF
-img2pdf
-reportlab
